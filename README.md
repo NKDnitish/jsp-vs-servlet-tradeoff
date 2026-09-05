@@ -6,6 +6,8 @@ The unified portal lets users choose either implementation and compare readabili
 
 ## Live Entry Points
 
+**Live Link** :- https://jsp-vs-servlet-tradeoff.onrender.com
+
 When running locally with Tomcat:
 
 | Page | URL |
