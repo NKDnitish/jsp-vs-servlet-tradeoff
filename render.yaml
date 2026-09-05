@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: studenthub-jsp-servlet
+    runtime: docker
+    plan: free
+    healthCheckPath: /
